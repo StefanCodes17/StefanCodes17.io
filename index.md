@@ -1,8 +1,7 @@
 ## Covid-19 In New York Analysis
 
 ### Visualizing Death Rate, Hospitilization Rate, Contract Rate
-
-![Covid Death Rate in New York City]("visualizations/death_case.png")
+<img src="../visualizations/death_rate.png"></img>
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
