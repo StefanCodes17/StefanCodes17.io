@@ -1,7 +1,7 @@
 ## Covid-19 In New York Analysis
 
 ### Visualizing Death Rate, Hospitilization Rate, Contract Rate
-![](https://github.com/StefanCodes17/StefanCodes17.io/blob/d4108a230098fc156572a68d38c9555bb1d0c612/visualizations/death_case.png)
+![Covid Death Rate in New York City Graph](https://github.com/StefanCodes17/StefanCodes17.io/blob/d4108a230098fc156572a68d38c9555bb1d0c612/visualizations/death_case.png)
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
