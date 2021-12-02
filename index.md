@@ -2,7 +2,7 @@
 
 ### Visualizing Death Rate, Hospitilization Rate, Contract Rate
 
-[Link](url) and ![Image]("./death_case.png")
+[Link](url) and ![Image]("./visualizations/death_case.png")
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
