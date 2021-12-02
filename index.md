@@ -6,8 +6,8 @@ Covid Case Count           |  Covid Death Rate         | Covid Hospitalization C
 :-------------------------:|:-------------------------:|:-------------------
 ![](visualizations/case_count.png)  |  ![](visualizations/death_count.png) | ![Covid Death Rate in New York City Graph](visualizations/hosp_count.png)
 
-Borough Covid Affect           |  Percent Hospitalization 
-:-------------------------:|:-------------------------:|:-------------------
+Borough Covid Affect       |  Percent Hospitalization   
+:-------------------------:|:-------------------------
 ![](visualizations/borough_viz.png)  | ![](visualizations/percenthosp_count.png)
 
 
