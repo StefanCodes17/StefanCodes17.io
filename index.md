@@ -9,4 +9,6 @@ Covid Case Count           |  Covid Death Rate         | Covid Hospitalization C
 ### Visualizing Borough Covid Affect
 ![](visualizations/borough_viz.png)
 ![](./visualizations/hosp_count.png)
+## Covid Percent Hospitalization
+![](visualizations/percenthosp_count.png)
 
