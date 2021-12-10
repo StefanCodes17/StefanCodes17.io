@@ -14,7 +14,7 @@ To calculate a percent infection, pulling borough population data from NYCOpenSo
 ### Police Data
 Also, from NYCOpenSource arrest and shooting statistics were used to compare trends between Covid and police activity which included features such as crime description, date and time, race, gender, age etc. 
 <hr/>
-### Visualizing Death Rate, Hospitialization Rate, Contract Rate 
+### Visualizing Death Rate, Hospitialization Rate, Contraction Rate 
 
 Covid Case Count           |  Covid Death Rate         | Covid Hospitalization Count
 :-------------------------:|:-------------------------:|:-------------------
