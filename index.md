@@ -23,7 +23,7 @@ Borough Covid Affect       |  Percent Hospitalization | Total Hospitalization Pe
 :-------------------------:|:-------------------------:|:------------------------------
 ![](visualizations/borough_viz.png)  | ![](visualizations/percenthosp_count.png) | ![](visualizations/hosp_countborough.png)
 
-Looking at the visualizations we can see Staten Island was abnomrally affected by Covid having a very high percent hospital admission count compared to its population towards the middle of Covid. Initially it seems Brookly, Queens and Manhattan were hit the hardest intially with the rest following suit and once regulations were established Staten Isalnd's Covid rocketed. 
+Looking at the visualizations we can see Staten Island was abnormally affected by Covid having a very high percent hospital admission count compared to its population towards the middle of Covid. Initially it seems Brooklyn, Queens and Manhattan were hit the hardest with the rest following suit and once regulations were established Staten Isalnd's Covid case count rocketed. 
 
 ### Visualizing Police Activity
 
