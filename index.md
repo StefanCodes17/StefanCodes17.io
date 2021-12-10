@@ -19,16 +19,12 @@ Covid Case Count           |  Covid Death Rate         | Covid Hospitalization C
 :-------------------------:|:-------------------------:|:-------------------
 ![](visualizations/case_count.png)  |  ![](visualizations/death_count.png) | ![Covid Death Rate in New York City Graph](visualizations/hosp_count.png)
 
-Borough Covid Affect       |  Percent Hospitalization   
-:-------------------------:|:-------------------------
-![](visualizations/borough_viz.png)  | ![](visualizations/percenthosp_count.png)
+Borough Covid Affect       |  Percent Hospitalization | Total Hospitalization Per Borough  
+:-------------------------:|:-------------------------:|:------------------------------
+![](visualizations/borough_viz.png)  | ![](visualizations/percenthosp_count.png) | ![](visualizations/hosp_countborough.png)
 
 ### Visualizing Police Activity
 
-Arrest Count          |  Historic Arrest Count         | Covid Hospitalization Count
-:-------------------------:|:-------------------------:|:-------------------
-![](visualizations/arrest_count.png)  |  ![](visualizations/histarrest_count.png) | ![Covid Death Rate in New York City Graph](visualizations/hosp_count.png)
-
-Borough Covid Affect       |  Percent Hospitalization   
+Arrest Count          |  Historic Arrest Count         
 :-------------------------:|:-------------------------
-![](visualizations/borough_viz.png)  | ![](visualizations/percenthosp_count.png)
+![](visualizations/arrest_count.png)  |  ![](visualizations/histarrest_count.png)
