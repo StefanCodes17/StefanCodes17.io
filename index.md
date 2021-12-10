@@ -1,5 +1,5 @@
 ## Covid-19 In New York Analysis
-
+![](covidImg.jpg)
 ### Visualizing Death Rate, Hospitialization Rate, Contract Rate
 
 Covid Case Count           |  Covid Death Rate         | Covid Hospitalization Count
