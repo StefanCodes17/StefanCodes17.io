@@ -34,3 +34,10 @@ Arrest Count          |  Historic Arrest Count
 
 Compared to Staten Island's high covid contraction rate, its arrest rate during the pandemic was astonighingly low whereas the rest of the boroughs were around the same cluster. This could have been due to Staten Island's suppsoed long history of low crime rates, and it did seem to be that case, however looking near the end of the historic arrest data the boroughs all had a significant decrease in arrest count. 
 
+## Data Links
+https://data.cityofnewyork.us/City-Government/NYC-Population-by-Borough/h2bk-zmw6
+https://data.cityofnewyork.us/Public-Safety/NYPD-Arrest-Data-Year-to-Date-/uip8-fykc
+https://www1.nyc.gov/site/nypd/stats/reports-analysis/use-of-force-data.page
+https://data.cityofnewyork.us/Health/COVID-19-Daily-Counts-of-Cases-Hospitalizations-an/rc75-m7u3
+https://github.com/nychealth/coronavirus-data
+https://data.cityofnewyork.us/Public-Safety/NYPD-Arrests-Data-Historic-/8h9b-rp9u
